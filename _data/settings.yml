@@ -19,7 +19,7 @@ client:
   brand: The Scott Gregory Team
   brokerage: eXp Realty
   market: The Emerald Coast
-  address: 1776 Sea Lark Ln Suite 5<br>Navarre, FL 32566
+  # address: 1776 Sea Lark Ln Suite 5<br>Navarre, FL 32566
   phone: 850-692-2292
   phone_type:
   phone2:
@@ -103,7 +103,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(67, 143, 143, .75)
+  shadow_color: transparent
 
 buttons:
   button_radius_number: 0
