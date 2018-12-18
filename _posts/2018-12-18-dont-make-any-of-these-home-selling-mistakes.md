@@ -1,11 +1,16 @@
 ---
 layout: post
 title: Don’t Make Any of These Home Selling Mistakes
-date:
+date: 2018-12-18 22:34:15
 tags:
-excerpt:
+  - Real Estate
+  - Home Seller Tips
+excerpt: >-
+  Selling a home in this market can be tough, but it’s easier if you know which
+  mistakes to avoid. Here is some great advice for selling a home in this
+  market.
 enclosure:
-pullquote:
+pullquote: Neglecting to make needed repairs is another big mistake.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
