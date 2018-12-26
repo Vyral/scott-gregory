@@ -25,8 +25,9 @@ client:
   phone2:
   phone2_type:
   email: scottgregoryteam@gmail.com
-  url: http://www.homesearchemeraldcoast.com http://www.grittyagents.com/ http://www.jointherealestaterevolution.com/
-  
+  url: http://www.homesearchemeraldcoast.com
+  url: http://www.grittyagents.com/
+  url: http://www.jointherealestaterevolution.com/
 
 CTAs:
   first_CTA_text: Home Valuation
