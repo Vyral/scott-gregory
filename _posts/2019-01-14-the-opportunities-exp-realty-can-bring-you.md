@@ -36,6 +36,6 @@ What I saw in that presentation was an opportunity to get paid three ways. I als
 
 You absolutely owe it to yourself to check this model out. What you’ll find is that **agents will come to you to find out why you’re so excited about what you’re doing.**&nbsp;
 
-If you’re thinking about joining a team, we’d love to talk to you about the systems we offer that give you the leads to do more business and make a better life for yourself outside of real estate.<br>Also, if you’d like to watch some free webinars about how to improve your real estate business, visit our website [www.grittyagents.com](www.grittyagents.com).&nbsp;
+If you’re thinking about joining a team, we’d love to talk to you about the systems we offer that give you the leads to do more business and make a better life for yourself outside of real estate.<br>Also, if you’d like to watch some free webinars about how to improve your real estate business, visit our website [www.grittyagents.com](www.grittyagents.com){: target="_blank"}&nbsp;
 
 If you have any other questions or concerns, feel free to reach out to me as well. I’d love to help you.&nbsp;
