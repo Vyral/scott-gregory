@@ -24,7 +24,7 @@ If you’re considering a career change and looking to get into real estate, or 
 
 I’m more excited about what the Scott Gregory Team is doing right now than I’ve been at any point in my two decades in real estate. **The reason why is the opportunities we have working with the agent-owned, cloud-based brokerage, eXp Realty**—not to mention the fantastic people we’ve gone in business with through our contractor agreement with the company.&nbsp;
 
-Previously in my career, I spent 12 years at KW Realty, and I loved it. They have a great model for a traditional brokerage, and I thought I’d never leave. I’m also a real estate coach, though, and when one of my coaching clients moved over to eXp, she was thrilled about the move and asked me if I knew anything about the company. I told her I knew everything about it...or so I thought.&nbsp;
+Previously in my career, I spent 12 years at KW Realty, and I loved it. They have a great model for a traditional brokerage, and I thought I’d never leave. I’m also a real estate coach, though, and when one of my coaching clients moved over to eXp, she was thrilled about the move and asked me if I knew anything about the company. I told her I knew everything about it…or so I thought.&nbsp;
 
 The truth is, I hadn’t actually seen eXp’s presentation, so out of respect to my coaching client, I decided to take a look at it. Once I saw it, I couldn’t unsee it. Several minutes in, I was at the edge of my seat. **They turned the traditional brokerage model on its head—some would call them the Amazon of real estate.** They got rid of brick-and-mortar offices, which means lower fees. Also, some of the money that traditionally goes back to the franchise owner or ownership group is given back to the agents in the form of revenue sharing.&nbsp;
 
@@ -36,6 +36,6 @@ What I saw in that presentation was an opportunity to get paid three ways. I als
 
 You absolutely owe it to yourself to check this model out. What you’ll find is that **agents will come to you to find out why you’re so excited about what you’re doing.**&nbsp;
 
-If you’re thinking about joining a team, we’d love to talk to you about the systems we offer that give you the leads to do more business and make a better life for yourself outside of real estate.<br>Also, if you’d like to watch some free webinars about how to improve your real estate business, visit our website [www.grittyagents.com](www.grittyagents.com){: target="_blank"}.&nbsp;
+If you’re thinking about joining a team, we’d love to talk to you about the systems we offer that give you the leads to do more business and make a better life for yourself outside of real estate.<br>Also, if you’d like to watch some free webinars about how to improve your real estate business, visit our website [www.grittyagents.com](www.grittyagents.com).&nbsp;
 
 If you have any other questions or concerns, feel free to reach out to me as well. I’d love to help you.&nbsp;
