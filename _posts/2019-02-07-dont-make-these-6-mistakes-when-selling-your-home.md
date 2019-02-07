@@ -26,7 +26,7 @@ To help you learn from others’ mistakes, we gathered real-life stories of home
 
 **1. Going too trendy.** Beware of falling for decor fads when it comes time to spruce up your home. It’s best to stay with tried and true choices.
 
-**2******.** Smart house, dumb decision.** Living in a house surrounded by technology is really not everyone’s cup of tea. You want to be modern, but don’t go overboard—it’ll turn off some buyers.
+**2. Smart house, dumb decision**. Living in a house surrounded by technology is really not everyone’s cup of tea. You want to be modern, but don’t go overboard—it’ll turn off some buyers.
 
 {% include pullquote.html %}
 
