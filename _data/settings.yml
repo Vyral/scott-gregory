@@ -33,9 +33,9 @@ client:
   url: http://www.homesearchemeraldcoast.com
 
 CTAs:
-  first_CTA_text: Home Valuation
+  first_CTA_text: Looking for An Emerald Coast Home?
   first_CTA_URL: https://www.homesearchemeraldcoast.com/homevalue/homeevaluation
-  second_CTA_text: Home Search
+  second_CTA_text: What's Your Emerald Coast Home Worth?
   second_CTA_URL: https://www.homesearchemeraldcoast.com/search
 
 sidebar_CTA:
