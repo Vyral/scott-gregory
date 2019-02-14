@@ -13,8 +13,8 @@ enclosure:
 pullquote: Let’s face it—some home improvements are better left to the pros.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/scott-gregory---feb-2019---1--youtube-1.jpg
 youtube_code: fjG9NoYDd4A
 ---
 
