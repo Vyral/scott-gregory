@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Make These 6 Mistakes When Selling Your Home
-date: 2019-02-07 17:17:52
+date: 2019-02-07 17:17:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: bDtZaON41t4
+youtube_code: fjG9NoYDd4A
 ---
 
 {% include youtube.html %}
