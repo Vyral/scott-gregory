@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/dont-make-any-of-these-home-selling-mistakes.html</loc>
+<lastmod>2018-12-18T16:34:15-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+<loc>http://localhost:4000/the-opportunities-exp-realty-can-bring-you.html</loc>
+<lastmod>2019-01-14T11:02:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dont-make-these-6-mistakes-when-selling-your-home.html</loc>
+<lastmod>2019-02-07T11:17:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -34,5 +38,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/thankyou/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/vip-program/</loc>
 </url>
 </urlset>

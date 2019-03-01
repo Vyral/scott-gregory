@@ -1,10 +1,10 @@
 audit_header: false
 title: The Emerald Coast Real Estate Video Blog with Scott Gregory
 description: Our mission at The Scott Gregory Team is to be your best resource for The Emerald Coast real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Scott Gregory Team, your professional The Emerald Coast Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: VIP Program
+    url: /vip-program/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
@@ -16,7 +16,7 @@ client:
   license_number:
   about_markdown: |
     Scott Gregory is the lead agent on The Scott Gregory Team at eXp Realty, and has been a top producer in real estate sales along the Emerald Coast for the last two decades. Scott and his team specialize in residential sales and investment properties. When you buy or sell with Scott, you get a full team at your service. Scott also is a national real estate sales coach with Club Wealth real estate coaching. His team can help you buy or sell property anywhere in America. Referrals are always welcome. Interested in a career in real estate anywhere in America, or in opportunities with his team? Reach out to Scott.
-    
+
     <a href="http://www.HomeSearchEmeraldCoast.com" target="_blank">www.HomeSearchEmeraldCoast.com </a><br>
     <a href="http://www.GrittyAgents.com" target="_blank">www.GrittyAgents.com </a><br>
     <a href="http://www.JoinTheRealEstateRevolution.com" target="_blank">www.JoinTheRealEstateRevolution.com </a><br>
