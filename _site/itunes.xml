@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Gregory Team - your professional The Emerald Coast Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Gregory</managingEditor>
-    <lastBuildDate>2019-03-01 16:28:39 -0600</lastBuildDate>
+    <lastBuildDate>2019-03-11 13:07:32 -0500</lastBuildDate>
     <media:copyright>Scott Gregory</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in The Emerald Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,41 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Gregory Team - your professional The Emerald Coast Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>We’re Excited to Help You Save With Our New VIP Club</title>
+        <link>http://localhost:4000/were-excited-to-help-you-save-with-our-new-vip-club.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Scott Gregory</author>
+        <pubDate>2019-03-04 12:37:24 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+We’re so thankful for all of you who have supported our business by trusting us with your real estate needs, and, because of this, we wanted to develop a way to show you our appreciation. 
+
+Allow us to introduce our new VIP Club. We’ve partnered with Corporate Plus Club to bring you all sorts of discounts for businesses nationwide, including AMC movie theaters, professional sporting events, Six Flags, Choice and Wyndham Hotels, and Budget, Hertz, and Enterprise rental cars. We’re so excited to help you save. 
+
+Plus, as a VIP, you’ll also receive exclusive invites to events we’ll host throughout the year. Those who do business with us, or refer business to us, are automatically granted a one-year “Inner Circle” membership that includes even more special benefits. Even if you’ve moved away from the Emerald Coast, we would be happy to refer you to an agent within our network wherever you are in America. 
+
+“We’re so excited to help you save.”
+
+Keep your eye out for a blue envelope, which will contain more membership information, coming from us soon. If you’ve done business with us and haven’t received your card soon, click this link to update your mailing address. Once you receive the VIP Club invite, use the code on the back of the card to download our free app on your smartphone to activate your membership and start saving right away. We encourage you to share your login with your entire family so that they can all save too.
+
+Once again, thank you for your support. Welcome to the club!
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As our way of thanking you for your continued support, we’d like to invite you into our new VIP Club.</itunes:subtitle>
+        <itunes:author>Scott Gregory</itunes:author>
+        <itunes:summary>As our way of thanking you for your continued support, we’d like to invite you into our new VIP Club.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in The Emerald Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Don’t Make These 6 Mistakes When Selling Your Home</title>
         <link>http://localhost:4000/dont-make-these-6-mistakes-when-selling-your-home.html</link>

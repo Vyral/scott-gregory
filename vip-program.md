@@ -8,6 +8,8 @@ permalink: /vip-program/
 <img src="/img/vip.png" class="half-image"><br>
 </div>
 
+<h5 class="center">If you've done business with The Scott Gregory Team, or referred business to us, you're invited to the Club!</h5>
+
 <form class="contact-form" method="post" action="https://formspree.io/{{site.data.settings.client.email}}">
   <input type="text" name="first-name" placeholder="First Name" required>
   <input type="text" name="last-name" placeholder="Last Name" required>
