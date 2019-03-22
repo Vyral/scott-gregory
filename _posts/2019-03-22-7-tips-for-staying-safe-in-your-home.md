@@ -24,7 +24,7 @@ According to StaySafe, accidents in the home claim 18,000 lives each year and ac
 
 **3. Watch for potential fall hazards.** People of all ages are susceptible to fall injuries, which are responsible for a third of all fatalities in America. Install safety gates at the top and bottom of your stairs if you have kids, and put non-slip pads underneath bath mats and rugs.
 
-> People of all ages are susceptible to fall injuries.
+> "People of all ages are susceptible to fall injuries."
 
 **4. Consider cordless blinds.**
 
