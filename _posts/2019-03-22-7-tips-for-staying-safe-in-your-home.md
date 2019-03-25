@@ -14,6 +14,8 @@ youtube_alternate_image:
 youtube_code: KwzLLCjs_Ws
 ---
 
+{% include youtube.html %}
+
 It’s safe to say that no one creates hazards in a home on purpose. However, no matter how hard we try, accidents still happen. There’s nothing more important than protecting our families, ourselves, and our investment in our homes.
 
 According to StaySafe, accidents in the home claim 18,000 lives each year and account for 21 million medical visits. Many of these deaths and visits are preventable. **Here are some tips to keep you and your family safe:**
