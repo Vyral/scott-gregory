@@ -34,6 +34,6 @@ According to StaySafe, accidents in the home claim 18,000 lives each year and ac
 
 **6. Add carbon monoxide detectors to your home.**
 
-**7. Clear out ash from fireplace or fire pit.** I once watered down ash from our fire pit a week after the fire and it relit in the garbage can. Be safe out there everyone.
+**7. Clear out ash from your fireplace or fire pit.** I once watered down ash from our fire pit a week after the fire and it relit in the garbage can. Be safe out there everyone.
 
-If you have any questions for me in the meantime or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
+If you have any questions for me in the meantime or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
