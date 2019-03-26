@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Tips for Staying Safe in Your Home
-date: 2019-03-22 20:55:27
+date: 2019-03-22 20:55:00
 tags:
   - Real Estate
 excerpt: Your home is full of hazards. Here’s how to avoid them.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KwzLLCjs_Ws
+youtube_code: jUm7l0i-iVg
 ---
 
 {% include youtube.html %}
@@ -36,4 +36,4 @@ According to StaySafe, accidents in the home claim 18,000 lives each year and ac
 
 **7. Clear out ash from fireplace or fire pit.** I once watered down ash from our fire pit a week after the fire and it relit in the garbage can. Be safe out there everyone.
 
-If you have any questions for me in the meantime or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any questions for me in the meantime or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
