@@ -20,7 +20,7 @@ It’s safe to say that no one creates hazards in a home on purpose. However, no
 
 According to StaySafe, accidents in the home claim 18,000 lives each year and account for 21 million medical visits. Many of these deaths and visits are preventable. **Here are some tips to keep you and your family safe:**
 
-**1. Check your dryer vents frequently**. Thousands of fires start each year due to a dirty vent. Most of us clean the lint screen, but, over time, lint sneaks into the vent and could clog it. Consider having a professional come out to clean the vent at least once every two years. I’ve pulled a six-foot lint snake out of my dryer before.
+**1. Check your dryer vents frequently**. Thousands of fires start each year due to a dirty vent. Most of us clean the lint screen, but, over time, lint sneaks into the vent and could clog it. Consider having a professional come out to clean the vent at least once every two years. I’ve pulled a six-foot lint snake out of my dryer vent before.
 
 **2. Keep a fire extinguisher nearby**. Having one in the laundry room isn’t a bad idea, because fires tend to happen there.
 
