@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Real Value of Homeownership
-date: 2019-05-23 20:27:45
+date: 2019-05-23 08:27:00
 tags:
   - Home Buyer Tips
 excerpt: >-
