@@ -21,7 +21,7 @@ youtube_code: urgrfSIogY4
 
 Recently, social media business celebrities Gary Vaynerchuk and Grant Cardone have started taking shots at homeownership, calling it a bad idea.
 
-Their position is that if you took that money you spent on your mortgage payment, and instead invested it rental properties that bring positive cash flow, it would be a smarter financial move.<br>It doesn’t throw off positive cash each month, so it’s not a good investment, they say.
+Their position is that if you took that money you spent on your mortgage payment, and instead invested it rental properties that bring positive cash flow, it would be a smarter financial move. It doesn’t throw off positive cash each month, so it’s not a good investment, they say.
 
 **While I agree with them in theory, this is ridiculous in practice.&nbsp;**
 
@@ -53,9 +53,9 @@ That’s never pleasant in the short term, but when it happens, you’re basical
 
 My dad often said to me that paying off the house was the best thing he ever did financially. He and my mom were able to enjoy a nice retirement due mainly to the equity they had built in their home.
 
-I’ll be blunt: Without their home equity, there would have been no retirement for them.<br>You can shave almost eight years off a 30-year mortgage by just making one more mortgage payment applied to your principal balance per year.&nbsp;
+I’ll be blunt: Without their home equity, there would have been no retirement for them. You can shave almost eight years off a 30-year mortgage by just making one more mortgage payment applied to your principal balance per year.&nbsp;
 
-<br>Let’s face it: Everything has gotten so much more expensive. For those struggling to put money away, paying a mortgage can create a savings cushion that renting cannot.
+Let’s face it: Everything has gotten so much more expensive. For those struggling to put money away, paying a mortgage can create a savings cushion that renting cannot.
 
 Owning a home does not guarantee a higher net worth, nor does it remove the need to be financially responsible. However, it does provide a structure within which one can build wealth. It also provides a setting for you to enjoy your life more freely with your family.
 
