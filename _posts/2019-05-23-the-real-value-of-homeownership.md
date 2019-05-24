@@ -21,7 +21,7 @@ youtube_code: nK8l1HxcRDQ
 
 Recently, social media business celebrities Gary Vaynerchuk and Grant Cardone have started taking shots at homeownership, calling it a bad idea.
 
-Their position is that if you took that money you spent on your mortgage payment, and instead invested it rental properties that bring positive cash flow, it would be a smarter financial move. It doesn’t throw off positive cash each month, so it’s not a good investment, they say.
+Their position is that if you took that money you spent on your mortgage payment, and instead invested in rental properties that bring positive cash flow, it would be a smarter financial move. It doesn’t throw off positive cash each month, so it’s not a good investment, they say.
 
 **While I agree with them in theory, this is ridiculous in practice.&nbsp;**
 
@@ -37,9 +37,9 @@ And let’s put money aside for a second and instead think about how great it wo
 
 **With all of that said, let’s get back to the numbers.&nbsp;**
 
-First-time homebuyers tend to focus on two things: The price of the home they’re buying, and the monthly payment. And it’s entirely understandable.
+First-time homebuyers tend to focus on two things: the price of the home they’re buying, and the monthly payment. That's entirely understandable.
 
-There’s something else to consider: The future value of the home.
+There’s something else to consider: the future value of the home.
 
 Appreciation, or the rising of home prices over time, is how the majority of wealth is built in real estate. That makes real estate one of the more stable long-term investments.
 
