@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Information About Our VIP Card
-date:
+date: 2019-08-06 20:03:08
 tags:
 excerpt: >-
   We wanted a way to say thank you to everyone who has done business with us.
