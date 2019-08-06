@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Information About Our VIP Card
-date: 2019-08-06 20:03:08
+date: 2019-08-06 20:03:00
 tags:
 excerpt: >-
   We wanted a way to say thank you to everyone who has done business with us.
@@ -11,8 +11,8 @@ enclosure: >-
 pullquote: 'Save on hotels, rental cars, movie tickets, and more.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/scott-gregory-vip-card.jpg
 youtube_code: 01Z3wYCW3bY
 ---
 
