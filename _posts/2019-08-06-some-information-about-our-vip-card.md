@@ -30,7 +30,7 @@ If you’ve done business with my team or referred us, you’ve received our new
 * Professionals sporting events
 * Six Flags
 * Choice and Wyndham Hotels
-* Budget, Hertz, and Enterprise car rentals.
+* Budget, Hertz, and Enterprise car rentals
 
 For our VIPs along the Emerald Coast, we’ll continue working to get you great deals from your favorite local businesses as well. **As a VIP, you'll also get invited to special parties and events that we hold throughout the year.** Those that do business with us and refer business to us each year will also earn an additional year of inner circle membership, which earns even more benefits.
 
