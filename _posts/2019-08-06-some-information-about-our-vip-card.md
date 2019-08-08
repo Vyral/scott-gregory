@@ -27,7 +27,7 @@ If you’ve done business with my team or referred us, you’ve received our new
 **You’ll get all sorts of discounts at businesses nationwide, including discounts at:**
 
 * AMC movie theatres
-* Professionals porting events
+* Professionals sporting events
 * Six Flags
 * Choice and Wyndham Hotels
 * Budget, Hertz, and Enterprise car rentals.
