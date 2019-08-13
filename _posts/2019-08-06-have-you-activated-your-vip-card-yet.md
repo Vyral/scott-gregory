@@ -36,4 +36,6 @@ For our VIPs along the Emerald Coast, we’ll continue working to get you great 
 
 **For those who have moved away from the Emerald Coast, we can connect you with our network of outstanding agents anywhere in America.**
 
+[To join our VIP Program, click here.&nbsp;](https://buysellemeraldcoast.com/vip-program/)
+
 If you haven’t received your card yet or you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.<br>&nbsp;
