@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Information About Our VIP Card
+title: Have You Activated Your VIP Card Yet?
 date: 2019-08-06 20:03:00
 tags:
 excerpt: >-
