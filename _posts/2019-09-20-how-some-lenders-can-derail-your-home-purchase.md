@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why It's Important to Work With a Good Lender
+title: How Some Lenders Can Derail Your Home Purchase
 date: 2019-09-20 18:28:00
 tags:
 excerpt: >-
