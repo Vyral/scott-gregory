@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Will You Really Net After Selling Your Home?
-date: 2019-09-30 18:36:23
+date: 2019-09-30 18:36:00
 tags:
 excerpt: What will you earn at the end of your home sale? Let’s discuss.
 enclosure:
@@ -19,7 +19,7 @@ youtube_code: PaMT98Xk-q8
 
 Many people wonder what kind of profit they’ll walk away with when they sell their home. After all, it’s what you net at the end of the sale, not the sales price, that matters most.&nbsp;
 
-**Our team’s top priority is helping sellers get the most money in the least time possible, and one of the tools we use to help us achieve this is our net sheet.&nbsp;**
+**Our team’s top priority is helping sellers get the most money in the least amount of time, and one of the tools we use to help us achieve this is our net sheet.&nbsp;**
 
 At the very beginning of your deal, we’ll meet to discuss what the right price for your home is based on its condition, location, and features, but also on your goals and personal moving time frame. It’s after this conversation that we develop our net sheet, which covers the expected closing costs based upon the sales price we determined earlier. We also encourage buyers to talk to their lender about what their loan pay-off amount is.&nbsp;
 
